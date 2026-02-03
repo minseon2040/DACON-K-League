@@ -26,3 +26,5 @@ This project was conducted for the **DACON K-League Player Movement Prediction C
 🏆 Public Rank: **47th**  
 🏆 Private Rank: **22nd**  
 🔥 **Final Standing: Top 4%**
+
+https://dacon.io/competitions/official/236647/leaderboard

@@ -12,15 +12,11 @@ This project was conducted for the **DACON K-League Player Movement Prediction C
 **Team:** 3 members collaborative project
 **Objective:** Predict players’ final spatial coordinates based on movement data.
 
----
-
 ## Modeling
 
 - CatBoost & LightGBM for structured tabular features  
 - MLP neural network for nonlinear spatial patterns  
 - Distance-aware **triple-bucket weighted ensemble**
-
----
 
 ## Results
 

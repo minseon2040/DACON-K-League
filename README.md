@@ -9,6 +9,7 @@ Predicting football players’ future spatial positions from tracking data in a 
 This project was conducted for the **DACON K-League Player Movement Prediction Competition**.
 
 **Period:** Dec 1, 2025 – Jan 12, 2026  
+**Team:** 3 members collaborative project
 **Objective:** Predict players’ final spatial coordinates based on movement data.
 
 ---

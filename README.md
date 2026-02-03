@@ -23,6 +23,6 @@ This project was conducted for the **DACON K-League Player Movement Prediction C
 **Evaluation Metric:** Euclidean Distance  
 🏆 Public Rank: **47th**  
 🏆 Private Rank: **22nd**  
-🔥 **Final Standing: Top 4%**
+🔥 **Final Standing: 22nd out of 937 teams (Top 4%)**
 
 https://dacon.io/competitions/official/236647/overview/description

@@ -1,7 +1,8 @@
-⚽ K-League Player Movement Prediction AI
+# ⚽ K-League Player Movement Prediction AI
 
-Predicting players’ final positions from in-game movement data using machine learning.
+### Sports Analytics Competition · Spatio-Temporal Player Tracking · Regression AI
 
+Predicting football players’ future spatial positions from tracking data in a sports analytics AI competition.
 
 ## Project Overview
 
@@ -27,4 +28,4 @@ This project was conducted for the **DACON K-League Player Movement Prediction C
 🏆 Private Rank: **22nd**  
 🔥 **Final Standing: Top 4%**
 
-https://dacon.io/competitions/official/236647/leaderboard
+https://dacon.io/competitions/official/236647/overview/description

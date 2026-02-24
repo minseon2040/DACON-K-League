@@ -1,4 +1,4 @@
-# ⚽ K-League Player Movement Prediction AI
+# ⚽ K리그 경기 내 최종 패스 좌표 예측 AI 모델 개발
 
 ### Sports Analytics Competition · Spatio-Temporal Player Tracking · Regression AI
 
@@ -6,10 +6,10 @@ Predicting football players’ future spatial positions from tracking data in a 
 
 ## Project Overview
 
-This project was conducted for the **DACON K-League Player Movement Prediction Competition**.
+- 선수 트래킹 데이터를 기반으로 특정 시점의 좌표를 예측하는 문제
 
 **Period:** Dec 1, 2025 – Jan 12, 2026  
-**Team:** 3 members collaborative project
+**Team:** 3 members 
 **Objective:** Predict players’ final spatial coordinates based on movement data.
 
 ## Modeling
